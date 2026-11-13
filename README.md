@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a><a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
-  <a href="https://github.com/ishandutta2007/Awesome-Data-Detection-And-Response-DDR/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Data-Detection-And-Response-DDR?style=for-the-badge&logo=apachespark&color=f59e0b" alt="GitHub Stars" /></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Data-Detection-And-Response-DDR/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Data-Detection-And-Response-DDR?style=for-the-badge&logo=apachespark&color=f59e0b" alt="GitHub_Stars" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Data-Detection-And-Response-DDR/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-Data-Detection-And-Response-DDR?style=for-the-badge&color=3b82f6" alt="GitHub Forks" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Data-Detection-And-Response-DDR/issues"><img src="https://img.shields.io/github/issues/ishandutta2007/Awesome-Data-Detection-And-Response-DDR?style=for-the-badge&color=ef4444" alt="Open Issues" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Data-Detection-And-Response-DDR/blob/main/LICENSE"><img src="https://img.shields.io/badge/License-MIT-green.svg?style=for-the-badge" alt="License" /></a>
@@ -96,9 +96,9 @@ The global **Data Detection and Response (DDR)** market is valued at **$4.0B –
 
 ## 💻 Open-Source GitHub Projects
 
-*Active community repositories providing data discovery, sensitive field classification, system telemetry, and detection-as-code building blocks. Sorted by **GitHub Star Count (Descending)**.*
+*Active community repositories providing data discovery, sensitive field classification, system telemetry, and detection-as-code building blocks. Sorted by **GitHub Stars_Count (Descending)**.*
 
-| Project | Star Badge | Focus Area | Description |
+| Project | Stars_Badge | Focus Area | Description |
 |---|---|---|---|
 | **[Gitleaks](https://github.com/gitleaks/gitleaks)** | [![Stars](https://img.shields.io/github/stars/gitleaks/gitleaks?style=social&color=white)](https://github.com/gitleaks/gitleaks/stargazers) | `Secret Detection` `DLP` | High-speed static analysis tool designed to detect hardcoded secrets, API tokens, passwords, and sensitive keys in git repositories, commits, files, and CI/CD pipelines. |
 | **[TruffleHog](https://github.com/trufflesecurity/trufflehog)** | [![Stars](https://img.shields.io/github/stars/trufflesecurity/trufflehog?style=social&color=white)](https://github.com/trufflesecurity/trufflehog/stargazers) | `Data Leak Scanner` `Exfiltration` | Searches git repositories, file systems, and S3 buckets for exposed high-entropy secrets and sensitive credentials, with built-in live verification engines. |
@@ -156,7 +156,7 @@ Contributions are warmly encouraged! To propose updates or add new tools:
 
 1. 🍴 **Fork the Repository**: Click "Fork" at the top right of this page.
 2. 🌿 **Create a Feature Branch**: `git checkout -b add-tool-name`
-3. 📝 **Add Your Entry**: Ensure descriptions are factual, links point directly to official sites, pricing is verified, and open-source entries include valid star badges.
+3. 📝 **Add Your Entry**: Ensure descriptions are factual, links point directly to official sites, pricing is verified, and open-source entries include valid Stars_Badges.
 4. 🚀 **Submit a Pull Request**: Provide a clear summary of your additions.
 
 ---
