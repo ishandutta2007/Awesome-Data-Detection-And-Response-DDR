@@ -1,6 +1,6 @@
 # Awesome-Data-Detection-And-Response-DDR
 
-# Top Data Detection and Response (DDR) Ecosystem
+## Top Data Detection and Response (DDR) Ecosystem
 
 **Curated List of SaaS Products & Open-Source GitHub Projects**  
 *Focused on Data-Centric Threat Detection, Behavioral Analytics & Automated Exfiltration Response*  
